@@ -28,8 +28,7 @@
   <img src="https://komarev.com/ghpvc/?username=iamshamimimran&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-- 🌱 I’m a **Web Developer**
-- 💬 Ask me about **Coding**
+- 🌱 I’m a **Full Stack Developer**
 - 📫 Reach me at: **biveksingha.dev@gmail.com**
 
 ---

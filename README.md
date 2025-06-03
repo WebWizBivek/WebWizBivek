@@ -13,10 +13,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamshamimimran&label=Profile%20views&color=0e75b6&style=flat" alt="profile hit" /> </p>
 
-- 🌱 I’m a **Web Developer**
-
-- 💬 Ask me about **Coding**
-
+- 🌱 I’m a **Full Stack Developer**
+  
 - 📫 How to reach me **biveksingha.dev@gmail.com**
   
 

@@ -28,7 +28,6 @@
 <img src="https://raw.githubusercontent.com/Iamshamimimran/iamshamimimran/output/snake.svg" alt="Snake animation" />
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=webwizbivek&label=Profile%20views&color=0e75b6&style=flat" alt="webwizbivek" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=webwizbivek" alt="webwizbivek" /></a> </p>
 

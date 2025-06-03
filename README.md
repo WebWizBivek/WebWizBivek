@@ -24,7 +24,7 @@
 
 
 
-<hr>
+
 <img src="https://raw.githubusercontent.com/Iamshamimimran/iamshamimimran/output/snake.svg" alt="Snake animation" />
 
 
